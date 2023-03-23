@@ -20,7 +20,7 @@ Warmest welcomes! 👋 Delighted to connect with you!
 
 - 👯 I’m open to collaborate on **on Front-end development.**
 
-- 👨‍💻 Portfolio website [Portfolio](zeeshan-mulhtar-portfolio.netlify.app)
+- 👨‍💻 Portfolio website [Portfolio](https://zeeshan-mukhtar-portfolio.netlify.app/)
 
 - 📝 I am pursuing my bachelor's degree in IT.
 
@@ -75,7 +75,7 @@ Warmest welcomes! 👋 Delighted to connect with you!
 </p>
 </td>
 <td>
-<a href="https://app.daily.dev/ZeeshanMukhtar1"><img src="https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/main/devcard.svg" width="400" alt="Zeeshan Mukhtar's  Dev Card"/></a>
+<a href="https://app.daily.dev/Zeeshanmukhtar1"><img src="https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/main/devcard.svg" width="400" alt="Zeeshan Mukhtar's  Dev Card"/></a>
 </td>
 </tr>
 </table>
