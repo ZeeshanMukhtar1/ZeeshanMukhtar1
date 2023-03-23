@@ -75,7 +75,7 @@ Warmest welcomes! 👋 Delighted to connect with you!
 </p>
 </td>
 <td>
-<a href="https://app.daily.dev/Zeeshanmukhtar1"><img src="https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/main/devcard.svg" width="400" alt="Zeeshan Mukhtar's  Dev Card"/></a>
+<a href="https://app.daily.dev/Zeeshanmukhtar1"><img src="https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/main/devcard.svg" width="600" alt="Zeeshan Mukhtar's  Dev Card"/></a>
 </td>
 </tr>
 </table>
