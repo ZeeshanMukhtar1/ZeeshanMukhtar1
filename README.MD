@@ -31,14 +31,46 @@ Warmest welcomes! 👋 Delighted to connect with you!
 ### My professional Skills
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="vscode logo"  />
+
+  <!-- html -->
+<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=cd6799">
+</a>
+<!-- css -->
+<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=cd6799">
+</a>
+<!-- bootstrap -->
+ <a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
+</a>
+<!-- JS -->
+<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+
+<!-- tailwinds css -->
+<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=df5c43">  
+</a>
+<!-- saas -->
+ <a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+<!-- react -->
+<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+</a>
+ <!-- git -->
+<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
+</a>
+<!-- github -->
+<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</a>
+  
 </p>
 
 ### Furthermore, I'm familiar with :
@@ -80,9 +112,11 @@ Warmest welcomes! 👋 Delighted to connect with you!
 </tr>
 </table>
 
-### Badges earned
+  ### Badges earned :2nd_place_medal:
 
-<a href='https://www.hackerrank.com/ZeeshanMukhtar1' target="_blank"><img alt='hackerrank silver badge' src='https://img.shields.io/badge/10_Days of JS 4 star -100000?style=for-the-badge&logo=hackerrank silver badge&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.hackerrank.com/ZeeshanMukhtar1' target="_blank"><img alt='hackerrank silver badge' src='https://img.shields.io/badge/10_Days of JS -100000?style=for-the-badge&logo=hackerrank silver badge&logoColor=white&labelColor=black&color=black'/></a> [![StarRating ](https://readme-components.vercel.app/api?component=star-rating&skill=Javascript&text=4)](https://www.hackerrank.com/ZeeshanMukhtar1)
+
+
 
 <b>My GitHub Stats</b>
 
