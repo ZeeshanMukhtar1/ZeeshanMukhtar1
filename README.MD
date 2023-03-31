@@ -20,7 +20,7 @@ Warmest welcomes! 👋 Delighted to connect with you!
 
 - 👯 I’m open to collaborate on **on Front-end development.**
 
-- 👨‍💻 Portfolio website [Portfolio](https://zeeshan-mukhtar-portfolio.netlify.app/)
+- 👨‍💻 Portfolio website [Portfolio](https://zeeshan-resume.netlify.app/)
 
 - 📝 I am pursuing my bachelor's degree in IT.
 
