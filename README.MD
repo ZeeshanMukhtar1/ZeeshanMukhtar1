@@ -31,57 +31,28 @@ Warmest welcomes! 👋 Delighted to connect with you!
 ### My professional Skills
 
 <p align="left">
-
-  <!-- html -->
-<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=cd6799">
-</a>
-<!-- css -->
-<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=cd6799">
-</a>
-<!-- bootstrap -->
- <a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
-</a>
-<!-- JS -->
-<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-
-<!-- tailwinds css -->
-<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=df5c43">  
-</a>
-<!-- saas -->
- <a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</a>
-<!-- react -->
-<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-</a>
- <!-- git -->
-<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
-</a>
-<!-- github -->
-<a href="https://www.linkedin.com/in/zeeshanmukhtar1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-</a>
-  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React" height="50" /></a> 
 </p>
 
 ### Furthermore, I'm familiar with :
 
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
 </p>
+  <h3> Badges earned :2nd_place_medal: </h3>
+
+[![StarRating ](https://readme-components.vercel.app/api?component=star-rating&skill=Javascript&text=4)](https://www.hackerrank.com/ZeeshanMukhtar1)
 
 ### I enjoy meeting new people and building connections. Don't hesitate to say hello 😁- I'm always happy to chat and see where things go
 
@@ -112,9 +83,7 @@ Warmest welcomes! 👋 Delighted to connect with you!
 </tr>
 </table>
 
-  ### Badges earned :2nd_place_medal:
-
-<a href='https://www.hackerrank.com/ZeeshanMukhtar1' target="_blank"><img alt='hackerrank silver badge' src='https://img.shields.io/badge/10_Days of JS -100000?style=for-the-badge&logo=hackerrank silver badge&logoColor=white&labelColor=black&color=black'/></a> [![StarRating ](https://readme-components.vercel.app/api?component=star-rating&skill=Javascript&text=4)](https://www.hackerrank.com/ZeeshanMukhtar1)
+ 
 
 
 
