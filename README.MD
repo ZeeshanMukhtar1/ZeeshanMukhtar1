@@ -102,3 +102,7 @@ Warmest welcomes! 👋 Delighted to connect with you!
 ### 💰 If you appreciate my assistance, please consider donating the price of a coffee.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zeeshanmukhtar1)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ZeeshanMukhtar1&&style=flat-square" align="center" />
+</div> 
