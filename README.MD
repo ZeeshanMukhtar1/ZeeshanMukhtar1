@@ -38,6 +38,8 @@ Warmest welcomes! 👋 Delighted to connect with you!
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React" height="50" /></a> 
+ <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png" alt="Markdown" height="50" /></a> 
+ 
 </p>
 
 ### Furthermore, I'm familiar with :
@@ -46,9 +48,8 @@ Warmest welcomes! 👋 Delighted to connect with you!
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" width="52" alt="microsoftsqlserver logo"  />
 </p>
   <h3> Badges earned :2nd_place_medal: </h3>
 
