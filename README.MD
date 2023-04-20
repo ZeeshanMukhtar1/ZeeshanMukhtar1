@@ -94,7 +94,7 @@ Warmest welcomes! 👋 Delighted to connect with you!
 
 <a href="http://www.github.com/ZeeshanMukhtar1">![](https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=tokyonight&hide_border=false)<br/></a>
 
-<a href="https://github.com/ishratUmar18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=tokyonight" alt="Top Languages" /></a>
+<a href="https://github.com/ZeeshanMukhtar1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=tokyonight" alt="Top Languages" /></a>
 
 ## 🐦 Latest Tweet
 
