@@ -1,12 +1,10 @@
-[![MasterHead](https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif)](https://www.linkedin.com/in/zeeshanmukhtar1/)
+[![MasterHead]()](https://www.linkedin.com/in/zeeshanmukhtar1/)
 Warmest welcomes! 👋 Delighted to connect with you!
 =====================================
 
-## Myself Zeeshan Mukhtar, am a self-taught front-end developer from Pakistan.
-
 # 💫 About Me:
 
-<p align="left">I'm a self-taught front-end developer with a passion for creating exceptional user experiences. My diverse skill set includes expertise in HTML, CSS, JavaScript, React.js, and Bootstrap, which I use to craft functional and intuitive web interfaces. If you're looking for a collaborative partner to bring your unique vision to life, I'd love to hear from you. Let's work together to build something amazing! 💻🚀</p>
+<p align="left">I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan with a passion for creating exceptional user experiences. My diverse skill set includes expertise in HTML, CSS, JavaScript, React.js, Bootstrap , and Tailwind, which I use to craft functional and intuitive web interfaces. If you are looking for a collaborative partner to bring your unique vision to life, I would be delighted to hear from you. Let's work together to build something amazing! 💻🚀</p>
 
 <table style="border: none;">
 <tr>
@@ -84,10 +82,6 @@ Warmest welcomes! 👋 Delighted to connect with you!
 </tr>
 </table>
 
- 
-
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ZeeshanMukhtar1">![](https://github-readme-stats.vercel.app/api?username=ZeeshanMukhtar1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/></a>
@@ -106,4 +100,4 @@ Warmest welcomes! 👋 Delighted to connect with you!
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ZeeshanMukhtar1&&style=flat-square" align="center" />
-</div> 
+</div>
