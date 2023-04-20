@@ -1,6 +1,8 @@
-[![MasterHead]()](https://www.linkedin.com/in/zeeshanmukhtar1/)
-Warmest welcomes! 👋 Delighted to connect with you!
-=====================================
+<!-- [![MasterHead](./Gh__header__img%20-%20Copy.svg)](https://www.linkedin.com/in/zeeshanmukhtar1/) -->
+
+[![Header](./Gh__header__img.svg 'Click to jum-in at LinkedIn')](https://www.linkedin.com/in/zeeshanmukhtar1/)
+
+# Warmest welcomes! 👋 Delighted to connect with you!
 
 # 💫 About Me:
 
