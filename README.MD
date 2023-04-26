@@ -16,17 +16,17 @@
 
 - 🎯 Goals: Advancing web development proficiency.
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 Currently, I am expanding my skills in web development with a focus on learning **ReactJS**.
 
-- 👯 I’m open to collaborate on **on Front-end development.**
+- 👯 I am open to collaborating with others on front-end development projects.
 
-- 👨‍💻 Portfolio website [Portfolio](https://zeeshan-resume.netlify.app/)
+- 👨‍💻 Check out my <a href="https://zeeshan-resume.netlify.app/" target="_blank">Portfolio</a> website for more information about me and my work.
 
-- 📝 I am pursuing my bachelor's degree in IT.
+- 📝 Currently, I am pursuing a bachelor's degree in IT.
 
-- 📫 Contact me at **zeshanmukhtar878@gmail.com**
+- 📧 Feel free to contact me via email for any inquiries or collaboration opportunities: <a href="mailto:zeshanmukhtar878@gmail.com">zeshanmukhtar878@gmail.com</a>
 
-- 💬 Ask me about **Anything related to web development.**
+- 💬 If you have any questions related to web development, feel free to ask me anything: **Anything related to web development.**
 
 ### My professional Skills
 
