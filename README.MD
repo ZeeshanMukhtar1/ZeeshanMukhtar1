@@ -1,5 +1,3 @@
-<!-- [![MasterHead](./Gh__header__img%20-%20Copy.svg)](https://www.linkedin.com/in/zeeshanmukhtar1/) -->
-
 [![Header](./Gh__header__img.svg 'Click to jum-in at LinkedIn')](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
 # Warmest welcomes! 👋 Delighted to connect with you!
@@ -13,20 +11,13 @@
 <td>
 
 - ✨ Creating bugs since the early days of my coding journey.
-
 - 🎯 Goals: Advancing web development proficiency.
-
-- 🌱 Currently, I am expanding my skills in web development with a focus on learning **ReactJS**.
-
+- 🌱 Currently, I am expanding my skills in web development with a focus on learning ReactJS.
 - 👯 I am open to collaborating with others on front-end development projects.
-
-- 👨‍💻 Check out my [Portfolio](https://zeeshan-resume.netlify.app/){:target="\_blank"} website for more information about me and my work.
-
+- 👨‍💻 Check out my Portfolio website [here](https://zeeshan-resume.netlify.app/).
 - 📝 Currently, I am pursuing a bachelor's degree in IT.
-
-- 📧 Feel free to contact me via <a href="mailto:zeshanmukhtar878@gmail.com">Email</a> for any inquiries or collaboration opportunities
-
-- 💬 Feel free to ask me anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshanmukhtar1/){:target="\_blank"} or [Instagram](https://www.instagram.com/zeeshan.mukhtar/){:target="\_blank"}.
+- 📧 Contact me at zeshanmukhtar878@gmail.com for any inquiries or collaboration opportunities.
+- 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshanmukhtar1/) or [Instagram](https://www.instagram.com/zeshanmukhtar01/).
 
 ### My professional Skills
 
