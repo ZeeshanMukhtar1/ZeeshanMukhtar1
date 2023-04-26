@@ -20,13 +20,13 @@
 
 - 👯 I am open to collaborating with others on front-end development projects.
 
-- 👨‍💻 Check out my <a href="https://zeeshan-resume.netlify.app/" target="_blank">Portfolio</a> website for more information about me and my work.
+- 👨‍💻 Check out my [Portfolio](https://zeeshan-resume.netlify.app/){:target="\_blank"} website for more information about me and my work.
 
 - 📝 Currently, I am pursuing a bachelor's degree in IT.
 
-- 📧 Feel free to contact me via email for any inquiries or collaboration opportunities: <a href="mailto:zeshanmukhtar878@gmail.com">zeshanmukhtar878@gmail.com</a>
+- 📧 Feel free to contact me via <a href="mailto:zeshanmukhtar878@gmail.com">Email</a> for any inquiries or collaboration opportunities
 
-- 💬 If you have any questions related to web development, feel free to ask me anything: **Anything related to web development.**
+- 💬 Feel free to ask me anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshanmukhtar1/){:target="\_blank"} or [Instagram](https://www.instagram.com/zeeshan.mukhtar/){:target="\_blank"}.
 
 ### My professional Skills
 
