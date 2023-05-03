@@ -32,6 +32,9 @@
  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png" alt="Markdown" height="50" /></a> 
  
 </p>
+ <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="Markdown" height="50" /></a> 
+ 
+</p>
 
 ### Furthermore, I'm familiar with :
 
@@ -42,11 +45,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" width="52" alt="microsoftsqlserver logo"  />
 </p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" height="40" width="52" alt="microsoftsqlserver logo"  />
+</p>
   <h3> Badges earned :2nd_place_medal: </h3>
 
 [![StarRating ](https://readme-components.vercel.app/api?component=star-rating&skill=Javascript&text=4)](https://www.hackerrank.com/ZeeshanMukhtar1)
 
-### I enjoy meeting new people and building connections. Don't hesitate to say hello 😁- I'm always happy to chat and see where things go
+### I love making new connections! Say hello and let's see where it takes us 😃
 
 <p align="left"> 
 <a href="https://twitter.com/ZeshanMukhtar01" target="_blank">
