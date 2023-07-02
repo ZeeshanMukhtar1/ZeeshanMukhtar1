@@ -9,13 +9,9 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 <details>
   <summary>Click to expand for more details 🤭</summary>
 
-## Additional Information
-
 - Previous Experience: I have been a JavaScript and React.js developer at the Code Lab and IT Solution Software House.
 - Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
 - Education: I hold a Bachelor's degree in Information Technology from bahauddin zakariya university.
-
-Feel free to reach out to me if you have any questions or if you'd like to discuss potential collaboration.
 
 </details>
 
