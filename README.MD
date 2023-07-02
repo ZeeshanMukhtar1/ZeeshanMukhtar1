@@ -1,10 +1,23 @@
 [![Header](./Gh__header__img.svg 'Click to jum-in at LinkedIn')](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
-# Warmest welcomes! 👋 Delighted to connect with you!
+# Warmest welcomes! Delighted to connect with you! 👋
 
 # 💫 About Me:
 
-<p align="left" style="text-align: justify;">I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan with a passion for creating exceptional user experiences. My diverse skill set includes expertise in HTML, CSS, JavaScript, React.js, Bootstrap , and Tailwind, which I use to craft functional and intuitive web interfaces. If you are looking for a collaborative partner to bring your unique vision to life, I would be delighted to hear from you. Let's work together to build something amazing! 💻🚀</p>
+I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan with a passion for creating exceptional user experiences. My diverse skill set includes expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, which I use to craft functional and intuitive web interfaces. I would be delighted to hear from you if you are looking for a collaborative partner to bring your unique vision to life. Let's work together to build something amazing! 💻🚀
+
+<details>
+  <summary>Click to expand for more details 🤭</summary>
+
+## Additional Information
+
+- Previous Experience: I have been a JavaScript and React.js developer at the Code Lab and IT Solution Software House.
+- Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
+- Education: I hold a Bachelor's degree in Information Technology from bahauddin zakariya university.
+
+Feel free to reach out to me if you have any questions or if you'd like to discuss potential collaboration.
+
+</details>
 
 <table style="border: none;" >
 <tr>
@@ -14,7 +27,7 @@
 - 🎯 Goals: Advancing web development proficiency.
 - 🌱 Currently, I am expanding my skills in web development with a focus on learning ReactJS.
 - 👯 I am open to collaborating with others on front-end development projects.
-- 👨‍💻 Check out my [Portfolio](https://zeeshan-dev.netlify.app/) website for more information about me and my work.
+- 👨‍💻 Check out my [Portfolio](https://zeeshan-resume.netlify.app/) website for more information about me and my work.
 - 📝 Currently, I am pursuing a bachelor's degree in IT.
 - 📧 Feel free to contact me via <a href="mailto:zeshanmukhtar878@gmail.com">Email</a> for any inquiries or collaboration opportunities.
 - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshanmukhtar1/) or [Instagram](https://www.instagram.com/zeshanmukhtar01/).
@@ -31,20 +44,31 @@
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React" height="50" /></a> 
  <a href="https://www.markdownguide.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png" alt="Markdown" height="50" /></a> 
- <a href="https://www.canva.com/en_au/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="Canva" height="50" /></a> 
- 
+ <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Canva" height="50" /></a>
+
 </p>
 
-### Furthermore, I have a background in :
+### Furthermore, Familiar with 🙂:
 
 <p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="Typescript "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="C#"  />
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" width="52" alt="microsoftsqlserver"  />
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" height="40" width="52" alt="Wordpress "  />
 </p>
+
+<details>
+  <summary>How I became familiar with these technologies 🤔</summary>
+  
+  - **C#**: I have built a semester project, where i developed a CRUD app using C#. During this project, I extensively utilized Microsoft SQL Server to fetch data, manage databases, and perform various data operations.
+  
+  - **TypeScript**: While learning the basics of Angular, I also gained knowledge of TypeScript.  I became familiar with TypeScript's syntax and concepts.
+  
+  - **Linux**: As a former Linux user, I have hands-on experience with Ubantu (Linux distribution). I am comfortable working within a Linux environment and utilizing command-line utilities .
+
+</details>
+  <br/>
+
   <h3> Accomplishment &#129352;
  </h3>
 
