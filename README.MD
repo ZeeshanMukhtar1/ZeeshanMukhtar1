@@ -21,7 +21,7 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 
 - ✨ Creating bugs since the early days of my coding journey.
 - 🎯 Goals: Advancing web development proficiency.
-- 🌱 Currently, I am expanding my skills in web development with a focus on learning ReactJS.
+- 🌱 Currently, I am expanding my skills in web development with a focus on learning MERN Stack.
 - 👯 I am open to collaborating with others on front-end development projects.
 - 👨‍💻 Check out my [Portfolio](https://zeeshan-resume.netlify.app/) website for more information about me and my work.
 - 📝 Currently, I am pursuing a bachelor's degree in IT.
@@ -44,10 +44,11 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 
 </p>
 
-### Furthermore, Familiar with 🙂:
+### Furthermore, i'm Familiar with 🙂:
 
 <p align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="Typescript "  />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=angular&text=true&animation=spin" height="45" width="90" alt="angular "  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="C#"  />
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" width="52" alt="microsoftsqlserver"  />
@@ -63,8 +64,6 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
   - **Linux**: As a former Linux user, I have hands-on experience with Ubantu (Linux distribution). I am comfortable working within a Linux environment and utilizing command-line utilities .
 
 </details>
-  <br/>
-
   <h3> Accomplishment &#129352;
  </h3>
 
