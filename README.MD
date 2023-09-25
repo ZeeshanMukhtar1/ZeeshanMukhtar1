@@ -40,7 +40,8 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React" height="50" /></a>
-<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" /></a>
+<a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" /></a>
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="NPM" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" height="50" /></a>
 <a href="https://www.markdownguide.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png" alt="Markdown" height="50" /></a>
 <a href="https://axios-http.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/627/627558.png" alt="Axios API" height="50" /></a>
@@ -101,11 +102,15 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 </tr>
 </table>
 
-<b> My GitHub Performance Metrics :</b>
+## Github Status 🏆
 
-<a href="http://www.github.com/ZeeshanMukhtar1">![](https://github-readme-stats.vercel.app/api?username=ZeeshanMukhtar1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/></a>
+<img  src="https://github-stats-lemon.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 
-<a href="http://www.github.com/ZeeshanMukhtar1">![](https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=tokyonight&hide_border=false)<br/></a>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanMukhtar1&theme=react-dark)
+<br>
 
 <a href="https://github.com/ZeeshanMukhtar1" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
