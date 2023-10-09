@@ -11,7 +11,7 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 
 - Previous Experience: I have been a JavaScript and React.js developer at the Code Lab and IT Solution Software House.
 - Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
-- Education: I hold a Bachelor's degree in Information Technology from bahauddin zakariya university.
+- Education: I hold a Bachelor's degree in Information Technology from Bahauddin Zakariya University.
 
 </details>
 
@@ -48,7 +48,7 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 
 </p>
 
-### Furthermore, i'm Familiar with 🙂:
+### Furthermore, I'm familiar with 🙂:
 
 <p align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="Typescript "  />
@@ -61,11 +61,11 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 <details>
   <summary>How I became familiar with these technologies 🤔</summary>
   
-  - **C#**: I have built a semester project, where i developed a CRUD app using C#. During this project, I extensively utilized Microsoft SQL Server to fetch data, manage databases, and perform various data operations.
+  - **C#**: I have built a semester project, where I developed a CRUD app using C#. During this project, I extensively utilized Microsoft SQL Server to fetch data, manage databases, and perform various data operations.
   
   - **TypeScript**: While learning the basics of Angular, I also gained knowledge of TypeScript.  I became familiar with TypeScript's syntax and concepts.
   
-  - **Linux**: As a former Linux user, I have hands-on experience with Ubantu (Linux distribution). I am comfortable working within a Linux environment and utilizing command-line utilities .
+  - **Linux**: As a former Linux user, I have hands-on experience with Ubuntu (Linux distribution). I am comfortable working within a Linux environment and utilizing command-line utilities.
 
 </details>
   <h3> Accomplishment &#129352;
@@ -86,7 +86,7 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 <a href="https://codepen.io/zeeshanmukhtar1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://twitter.com/ZeshanMukhtar01" width="52" height="40" alt="twitter logo"  />
   </a> 
  <a href="https://www.instagram.com/zeshanmukhtar01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
