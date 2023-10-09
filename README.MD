@@ -85,9 +85,9 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
   </a>
 <a href="https://codepen.io/zeeshanmukhtar1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-    <img src="https://twitter.com/ZeshanMukhtar01" width="52" height="40" alt="twitter logo"  />
-  </a> 
+<a href="https://twitter.com/ZeshanMukhtar01" target="_blank">
+    <img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="X logo"  />
+
  <a href="https://www.instagram.com/zeshanmukhtar01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a> 
