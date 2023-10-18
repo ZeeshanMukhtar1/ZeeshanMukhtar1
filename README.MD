@@ -43,6 +43,7 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 <a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="NPM" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png" alt="Markdown" height="50" /></a>
 <a href="https://axios-http.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/627/627558.png" alt="Axios API" height="50" /></a>
 
@@ -54,8 +55,6 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="Typescript "  />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=angular&text=true&animation=spin" height="45" width="90" alt="angular "  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="C#"  />
-  <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" width="52" alt="microsoftsqlserver"  />
 </p>
 
 <details>
