@@ -2,7 +2,7 @@ settings:
   username: 'ZeeshanMukhtar1'
   commit_msg: '⚡ Update README with the recent activity'
   max_lines: 5
-  readme_file: './TEMPLATE.md'
+  readme_file: './README.MD'
   disabled_events:
     - 'comments'
   url_text: '{REPO}{ID}'
