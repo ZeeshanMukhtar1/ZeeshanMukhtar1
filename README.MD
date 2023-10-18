@@ -117,6 +117,13 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
 </a>
 
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ZeeshanMukhtar1&&style=flat-square" align="center" />
 </div>
