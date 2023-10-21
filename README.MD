@@ -55,11 +55,13 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="Typescript "  />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=angular&text=true&animation=spin" height="45" width="90" alt="angular "  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
 <details>
   <summary>How I became familiar with these technologies 🤔</summary>
   
+ - **Android & iOS**: I have built semester projects where I developed mobile apps using React Native. These apps primarily focused on front-end development, and I extensively utilized React Native's components and libraries to create the user interface and functionality.
   - **C#**: I have built a semester project, where I developed a CRUD app using C#. During this project, I extensively utilized Microsoft SQL Server to fetch data, manage databases, and perform various data operations.
   
   - **TypeScript**: While learning the basics of Angular, I also gained knowledge of TypeScript.  I became familiar with TypeScript's syntax and concepts.
