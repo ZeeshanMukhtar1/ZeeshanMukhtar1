@@ -4,13 +4,13 @@
 
 # 💫 About Me:
 
-I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan with a passion for creating exceptional user experiences. My diverse skill set includes expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, which I use to craft functional and intuitive web interfaces. I would be delighted to hear from you if you are looking for a collaborative partner to bring your unique vision to life. Let's work together to build something amazing! 💻🚀
+As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degree in IT. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, I am passionate about creating exceptional user experiences. Continuously learning and expanding my skills, I am currently exploring the MERN stack (MongoDB, Express.js, React.js, Node.js). As an open-source contributor, I actively collaborate with others to drive innovation. Let's work together to bring your vision to life with a professional touch and create remarkable web experiences! 💻🚀
 
 <details>
   <summary>Click to expand for more details 🤭</summary>
 
 - Previous Experience: I have been a JavaScript and React.js developer at the Code Lab and IT Solution Software House.
-- Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
+- Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.I also worked on some basic Mobile application for android and IOS.
 - Education: I hold a Bachelor's degree in Information Technology from Bahauddin Zakariya University.
 
 </details>
