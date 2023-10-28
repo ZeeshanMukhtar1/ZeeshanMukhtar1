@@ -69,13 +69,7 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
   - **Linux**: As a former Linux user, I have hands-on experience with Ubuntu (Linux distribution). I am comfortable working within a Linux environment and utilizing command-line utilities.
 
 </details>
-  <h3> Accomplishments &#129352;
- </h3>
-
-[![StarRating ](https://readme-components.vercel.app/api?component=star-rating&skill=Javascript&text=4)](https://www.hackerrank.com/ZeeshanMukhtar1)
-
-[![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
-
+ 
 ### Let's connect and see where our shared passion for technology can take us! 💻🚀
 
 <p align="left"> 
@@ -104,6 +98,13 @@ I am a Bachelor of IT and a self-taught Front-End Web Developer from Pakistan wi
 </td>
 </tr>
 </table>
+
+ <h3> Accomplishments &#129352;
+ </h3>
+
+[![StarRating ](https://readme-components.vercel.app/api?component=star-rating&skill=Javascript&text=4)](https://www.hackerrank.com/ZeeshanMukhtar1)
+
+[![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
 
 ## Github Status 🏆
 
