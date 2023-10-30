@@ -101,13 +101,22 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 ## 🌟 Recent Achievements 🌟
 
-- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Certificates](https://www.holopin.io/@zeeshanmukhtar1#)
+- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://www.holopin.io/@zeeshanmukhtar1#)
 
 - 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Zeeshan](https://tree-nation.com/trees/view/5281810)
 
 - ⭐ **Skill Development:** Improved my JavaScript skills with a 4-star rating on HackerRank. [HackerRank Profile](https://www.hackerrank.com/ZeeshanMukhtar1)
 
 - 🛡️ **Holopin Badges:** Check out my Holopin badges showcasing my contributions and achievements. [Holopin Profile](https://holopin.io/@zeeshanmukhtar1)
+
+- 🖌️ **CSS Expertise:** Earned certification in CSS, further enhancing my front-end development skills. [View Certificate](https://www.hackerrank.com/certificates/c8e861c702e6)
+
+- 🚀 **JavaScript wizard:** Elevated my mastery of the JavaScript programming language. [View Certificate](https://coursera.org/share/b4d7eb15d70c1b00cd19d00b952716dc)
+
+- 🎓 **Certified in Advanced React:** Completed the Advanced React course, enhancing my web development skills. [See Certificate](https://coursera.org/share/918026f1975c0c52165534d622e891e9)
+
+- 🎓 **Bachelor's in Information Technology:** Graduated from Bahauddin Zakariya University with a degree in IT, providing a strong foundation for my career in technology.
+
 </h3>
 
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
@@ -128,4 +137,5 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ZeeshanMukhtar1&&style=flat-square" align="center" />
+
 </div>
