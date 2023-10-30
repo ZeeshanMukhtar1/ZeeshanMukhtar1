@@ -137,5 +137,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ZeeshanMukhtar1&&style=flat-square" align="center" />
-
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
