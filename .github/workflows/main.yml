@@ -1,0 +1,21 @@
+name: WakaTime Status Update
+
+on:
+  schedule:
+    # Runs at 12 am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats in Readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update WakaTime Stats
+        uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: "main"
