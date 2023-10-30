@@ -99,14 +99,20 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </tr>
 </table>
 
- <h3> Accomplishments &#129352;
- </h3>
+## 🌟 Recent Achievements 🌟
 
-[![StarRating ](https://readme-components.vercel.app/api?component=star-rating&skill=Javascript&text=4)](https://www.hackerrank.com/ZeeshanMukhtar1)
+- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Certificates](https://www.holopin.io/@zeeshanmukhtar1#)
+
+- 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Zeeshan](https://tree-nation.com/trees/view/5281810)
+
+- ⭐ **Skill Development:** Improved my JavaScript skills with a 4-star rating on HackerRank. [HackerRank Profile](https://www.hackerrank.com/ZeeshanMukhtar1)
+
+- 🛡️ **Holopin Badges:** Check out my Holopin badges showcasing my contributions and achievements. [Holopin Profile](https://holopin.io/@zeeshanmukhtar1)
+</h3>
 
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
 
-## Github Status 🏆
+## Github statistics 🏆
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 
