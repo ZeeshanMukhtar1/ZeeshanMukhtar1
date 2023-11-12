@@ -137,8 +137,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </a>
 
 <div align="center" style="margin-top: 20px;" >
-<img src="https://komarev.com/ghpvc/?username=ZeeshanMukhtar1&&style=flat-square" align="center" />
-
+<img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Views&icon=1&pretty=false" align="center" />
 </div>
 
 <p align="center" style="margin-top: 30px;">
