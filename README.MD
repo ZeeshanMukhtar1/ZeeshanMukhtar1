@@ -1,6 +1,6 @@
 [![Header](./Gh__header__img.svg 'Click to jum-in at LinkedIn')](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
-[![Welcome msg](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Digital+World!+%F0%9F%8C%90;The+Place+where+i+fork%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Welcome message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Step+into+my+digital+universe%F0%9F%8C%8D;Where+I+fork+ideas+%F0%9F%8D%B4)](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
 # 💫 About Me:
 
