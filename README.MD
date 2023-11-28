@@ -1,4 +1,4 @@
-[![Header](./Gh__header__img.svg 'Click to jum-in at LinkedIn')](https://www.linkedin.com/in/zeeshanmukhtar1/)
+[![Header](./cover__img.svg 'Click to jum-in at LinkedIn')](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
 [![Welcome message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Step+into+my+digital+universe%F0%9F%8C%8D;Where+I+fork+ideas+%F0%9F%8D%B4)](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
@@ -81,8 +81,6 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
   <a href="https://www.hackerrank.com/ZeeshanMukhtar1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-<a href="https://codepen.io/zeeshanmukhtar1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
 <a href="https://twitter.com/ZeshanMukhtar01" target="_blank">
     <img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="X logo"  />
 
