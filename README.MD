@@ -134,11 +134,13 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
 </a>
 
-<div align="center" style="margin-top: 20px;" >
-<img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Views&pretty=false" align="center" />
-</div>
-
-[![wakatime](https://wakatime.com/badge/user/018c11a7-c257-4c7e-a0c7-25addbf10c4c.svg)](https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c)
+<p align="center">
+  <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
+    <img src="https://wakatime.com/badge/user/018c11a7-c257-4c7e-a0c7-25addbf10c4c.svg?style=for-the-badge" alt="Counting Keystrokes">
+  </a>
+  <br/>
+  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Views&pretty=false" alt="Profile Views">
+</p>
 
 <p align="center" style="margin-top: 30px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
