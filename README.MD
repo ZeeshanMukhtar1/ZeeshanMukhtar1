@@ -62,10 +62,9 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 <details>
   <summary>How I became familiar with these technologies 🤔</summary>
   
- - **Android & iOS**: I have built semester projects where I developed mobile apps using React Native. These apps primarily focused on front-end development, and I extensively utilized React Native's components and libraries to create the user interface and functionality.
-  - **C#**: I have built a semester project, where I developed a CRUD app using C#. During this project, I extensively utilized Microsoft SQL Server to fetch data, manage databases, and perform various data operations.
+ - **Android & iOS**: I have built multiple semester projects using React Native. These include an online [Quiz app](https://github.com/ZeeshanMukhtar1/Brain-Trainer/), a [Mobile Chatting app](https://github.com/ZeeshanMukhtar1/ChatFlowPro) utilizing [Google Bard API](https://github.com/ZeeshanMukhtar1/NextJS-RN-GoogleChat), and an online [Job finder](https://github.com/ZeeshanMukhtar1/EasyApply) app. My focus was on front-end development, leveraging React Native's components and libraries to create engaging user interfaces and seamless functionality for both Android and iOS devices.
   
-  - **TypeScript**: While learning the basics of Angular, I also gained knowledge of TypeScript.  I became familiar with TypeScript's syntax and concepts.
+  - **TypeScript**: While learning the basics of Angular, I also gained knowledge of TypeScript.  I became familiar with TypeScript's syntax and concepts. I also learned how to use TypeScript with Scss to build Angular applications.
   
   - **Linux**: As a former Linux user, I have hands-on experience with Ubuntu (Linux distribution). I am comfortable working within a Linux environment and utilizing command-line utilities.
 
@@ -83,7 +82,6 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
   </a>
 <a href="https://twitter.com/ZeshanMukhtar01" target="_blank">
     <img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="X logo"  />
-
  <a href="https://www.instagram.com/zeshanmukhtar01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a> 
