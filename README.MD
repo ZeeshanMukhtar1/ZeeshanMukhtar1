@@ -34,26 +34,27 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 <a href="https://html5.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3.org/Style/CSS/.
 " target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Saas" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
 <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Git" height="50" /></a>    
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React" height="50" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /></a>
 <a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="NPM" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png" alt="Markdown" height="50" /></a>
 <a href="https://axios-http.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/627/627558.png" alt="Axios API" height="50" /></a>
+<a href="https://axios-http.com/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" height="50" /></a>
 
 </p>
 
 ### Furthermore, I'm familiar with 🙂:
 
 <p align="left">
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="52" alt="Typescript "  />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="40" width="52" alt="Typescript "  />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=angular&text=true&animation=spin" height="45" width="90" alt="angular "  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
