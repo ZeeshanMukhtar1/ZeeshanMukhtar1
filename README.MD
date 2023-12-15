@@ -134,11 +134,13 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </a>
 
 <p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Views&pretty=false" alt="Profile Views">
+  <br/>
   <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
     <img src="https://wakatime.com/badge/user/018c11a7-c257-4c7e-a0c7-25addbf10c4c.svg?style=for-the-badge" alt="Counting Keystrokes">
   </a>
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Views&pretty=false" alt="Profile Views">
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-500k%20lines%20of%20code-blue" alt="Lines of Code">
 </p>
 
 <p align="center" style="margin-top: 30px;">
