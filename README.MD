@@ -1,11 +1,20 @@
+<!-- header image -->
+
 [![Header](./cover__img.svg 'Click to jum-in at LinkedIn')](https://www.linkedin.com/in/zeeshanmukhtar1/)
+
+<!-- animated welcome message -->
 
 [![Welcome message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Step+into+my+digital+universe%F0%9F%8C%8D;Where+I+fork+ideas+%F0%9F%8D%B4)](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
+<!-- intro title -->
+
 # About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Hat Face" width="25" height="25" />
+
+<!-- intro content -->
 
 As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degree in IT. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, I am passionate about creating exceptional user experiences. Continuously learning and expanding my skills, I am currently exploring the MERN stack (MongoDB, Express.js, React.js, Node.js). As an open-source contributor, I actively collaborate with others to drive innovation. Let's work together to bring your vision to life with a professional touch and create remarkable web experiences! 💻🚀
 
+<!-- more about me  -->
 <details>
   <summary>Click to expand for more details 🤭</summary>
 
@@ -27,6 +36,8 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 - 📝 Currently, I am pursuing a bachelor's degree in IT.
 - 📧 Feel free to contact me via <a href="mailto:zeshanmukhtar878@gmail.com">Email</a> for any inquiries or collaboration opportunities.
 - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshanmukhtar1/) or [Instagram](https://www.instagram.com/zeshanmukhtar01/).
+
+<!-- skills -->
 
 ### Areas of Expertise <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Money%20Mouth%20Face.webp" alt="Money Mouth Face" width="25" height="25" />
 
@@ -52,6 +63,8 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 </p>
 
+<!-- secondary skills -->
+
 ### Furthermore, I'm familiar with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" />
 
 <p align="left">
@@ -61,6 +74,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
+<!-- reason of above familarities -->
 <details>
   <summary>How I became familiar with these technologies 🤔</summary>
   
@@ -73,6 +87,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </details>
 <br>
  
+ <!-- social handles -->
 >  Let's connect and see where our shared passion for technology can take us!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/See%20No%20Evil%20Monkey.webp" alt="See No Evil Monkey" width="25" height="25" />
 
 <p align="left"> 
@@ -99,6 +114,8 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </tr>
 </table>
 
+<!-- achievements -->
+
 ## Recent Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" />
 
 - 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://www.holopin.io/@zeeshanmukhtar1#)
@@ -119,32 +136,59 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 </h3>
 
+<!-- swags -->
+
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
+
+<!-- github stats -->
 
 ## Github statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Disguised%20Face.webp" alt="Disguised Face" width="25" height="25" />
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 
+<!-- github streak -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=react" width="48%" >
 <br>
+
+<!-- graph -->
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanMukhtar1&theme=react-dark)
 <br>
 
+<!-- top languages -->
 <a href="https://github.com/ZeeshanMukhtar1" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
 </a>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Views&pretty=false" alt="Profile Views">
+  <!-- articles -->
+
+# My Tech Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+
+Check out my latest tech articles:
+
+- [Your First Open-Source Contribution](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution)
+
+- [The Secrets to Open Source Success](https://zeeshanmukhtar1.hashnode.dev/the-secrets-to-open-source-success)
+
+- [Building a Node.js and MongoDB Web Application](https://zeeshanmukhtar1.hashnode.dev/building-a-nodejs-and-mongodb-web-application-a-step-by-step-guide)
+
   <br/>
+
+<!-- profile hits -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Stalker%20Alert&pretty=false" alt="Profile Views">
+  <br/>
+  
+  <!-- wakatime -->
   <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
     <img src="https://wakatime.com/badge/user/018c11a7-c257-4c7e-a0c7-25addbf10c4c.svg?style=for-the-badge" alt="Counting Keystrokes">
   </a>
   <br/>
+  <!-- code quantity -->
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-500k%20lines%20of%20code-blue" alt="Lines of Code">
 </p>
 
+  <!-- animated images footer -->
 <p align="center" style="margin-top: 30px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
