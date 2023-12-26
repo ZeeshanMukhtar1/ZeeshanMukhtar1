@@ -2,7 +2,7 @@
 
 [![Welcome message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Step+into+my+digital+universe%F0%9F%8C%8D;Where+I+fork+ideas+%F0%9F%8D%B4)](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
-# 💫 About Me:
+# About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Hat Face" width="25" height="25" />
 
 As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degree in IT. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, I am passionate about creating exceptional user experiences. Continuously learning and expanding my skills, I am currently exploring the MERN stack (MongoDB, Express.js, React.js, Node.js). As an open-source contributor, I actively collaborate with others to drive innovation. Let's work together to bring your vision to life with a professional touch and create remarkable web experiences! 💻🚀
 
@@ -28,7 +28,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 - 📧 Feel free to contact me via <a href="mailto:zeshanmukhtar878@gmail.com">Email</a> for any inquiries or collaboration opportunities.
 - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshanmukhtar1/) or [Instagram](https://www.instagram.com/zeshanmukhtar01/).
 
-### Areas of Expertise
+### Areas of Expertise <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Money%20Mouth%20Face.webp" alt="Money Mouth Face" width="25" height="25" />
 
 <p align="left">
 <a href="https://html5.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -37,6 +37,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Saas" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
 <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Git" height="50" /></a>    
@@ -51,7 +52,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 </p>
 
-### Furthermore, I'm familiar with 🙂:
+### Furthermore, I'm familiar with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" />
 
 <p align="left">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="40" width="52" alt="Typescript "  />
@@ -70,8 +71,9 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
   - **Linux**: As a former Linux user, I have hands-on experience with Ubuntu (Linux distribution). I am comfortable working within a Linux environment and utilizing command-line utilities.
 
 </details>
+<br>
  
-### Let's connect and see where our shared passion for technology can take us! 💻🚀
+>  Let's connect and see where our shared passion for technology can take us!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/See%20No%20Evil%20Monkey.webp" alt="See No Evil Monkey" width="25" height="25" />
 
 <p align="left"> 
 <a href="https://twitter.com/ZeshanMukhtar01" target="_blank">
@@ -97,7 +99,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </tr>
 </table>
 
-## 🌟 Recent Achievements 🌟
+## Recent Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" />
 
 - 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://www.holopin.io/@zeeshanmukhtar1#)
 
@@ -119,7 +121,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
 
-## Github statistics 🏆
+## Github statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Disguised%20Face.webp" alt="Disguised Face" width="25" height="25" />
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 
