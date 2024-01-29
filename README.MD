@@ -12,13 +12,13 @@
 
 <!-- intro content -->
 
-As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degree in IT. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, I am passionate about creating exceptional user experiences. Continuously learning and expanding my skills, I am currently exploring the MERN stack (MongoDB, Express.js, React.js, Node.js). As an open-source contributor, I actively collaborate with others to drive innovation. Let's work together to bring your vision to life with a professional touch and create remarkable web experiences! 💻🚀
+I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Proficient in JavaScript. I have a passion for learning and sharing my knowledge with others as publicly as possible. I have experience working with React.js, Node.js, and MongoDB. I'm also familiar with TypeScript, Angular, and Linux. I'm currently diving deep into the MERN stack. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻🚀
 
 <!-- more about me  -->
 <details>
   <summary>Click to expand for more details 🤭</summary>
 
-- Previous Experience: I have been a JavaScript and React.js developer at the Code Lab and IT Solution Software House.
+- Previous Experience: I have been a React.js and Angular developer at the Code Lab and IT Solution Software House.
 - Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.I also worked on some basic Mobile application for android and IOS.
 - Education: I hold a Bachelor's degree in Information Technology from Bahauddin Zakariya University.
 
@@ -56,6 +56,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 <a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="NPM" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png" alt="Markdown" height="50" /></a>
 <a href="https://axios-http.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/627/627558.png" alt="Axios API" height="50" /></a>
@@ -119,6 +120,8 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 ## Recent Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" />
 
 - 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://www.holopin.io/@zeeshanmukhtar1#)
+
+- 💎 **Google Cloud Seekho Challenge:** Proud winner with the Diamond Badge for significant contributions and achievements in the challenge. [Verify here](https://www.cloudskillsboost.google/public_profiles/6657fd9e-28d1-4374-bad2-f24ba18a66ea)
 
 - 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Zeeshan](https://tree-nation.com/trees/view/5281810)
 
