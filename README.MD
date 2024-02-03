@@ -87,33 +87,6 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
 </details>
 <br>
- 
- <!-- social handles -->
->  Let's connect and see where our shared passion for technology can take us!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/See%20No%20Evil%20Monkey.webp" alt="See No Evil Monkey" width="25" height="25" />
-
-<p align="left"> 
-<a href="https://twitter.com/ZeshanMukhtar01" target="_blank">
-   <a href="https://www.linkedin.com/in/zeeshanmukhtar1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/ZeeshanMukhtar1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-<a href="https://twitter.com/ZeshanMukhtar01" target="_blank">
-    <img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="X logo"  />
- <a href="https://www.instagram.com/zeshanmukhtar01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a> 
-  <a href="https://www.facebook.com/profile.php?id=100070572332885" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</p>
-</td>
-<td>
-<a href="https://app.daily.dev/Zeeshanmukhtar1"><img src="https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/main/devcard.svg" width="600" alt="Zeeshan Mukhtar's  developer card "/></a>
-</td>
-</tr>
-</table>
 
 <!-- achievements -->
 
@@ -169,6 +142,10 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
 Check out my latest tech articles:
 
+- [MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
+
+- [Redux biginner Guide](https://zeeshanmukhtar1.hashnode.dev/redux-toolkit-guide)
+
 - [Your First Open-Source Contribution](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution)
 
 - [The Secrets to Open Source Success](https://zeeshanmukhtar1.hashnode.dev/the-secrets-to-open-source-success)
@@ -179,7 +156,7 @@ Check out my latest tech articles:
 
 <!-- profile hits -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Stalker%20Alert&pretty=false" alt="Profile Views">
+  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Hits&pretty=false" alt="Profile Views">
   <br/>
   
   <!-- wakatime -->
