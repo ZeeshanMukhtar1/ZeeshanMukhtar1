@@ -123,19 +123,17 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
   <!-- articles -->
 
-# My Tech Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+## Check out my latest tech articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 
-Check out my latest tech articles:
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
 
-- [MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [Redux beginner Guide](https://zeeshanmukhtar1.hashnode.dev/redux-toolkit-guide)
 
-- [Redux biginner Guide](https://zeeshanmukhtar1.hashnode.dev/redux-toolkit-guide)
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [Your First Open-Source Contribution](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution)
 
-- [Your First Open-Source Contribution](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution)
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [The Secrets to Open Source Success](https://zeeshanmukhtar1.hashnode.dev/the-secrets-to-open-source-success)
 
-- [The Secrets to Open Source Success](https://zeeshanmukhtar1.hashnode.dev/the-secrets-to-open-source-success)
-
-- [Building a Node.js and MongoDB Web Application](https://zeeshanmukhtar1.hashnode.dev/building-a-nodejs-and-mongodb-web-application-a-step-by-step-guide)
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [Building a Node.js and MongoDB Web Application](https://zeeshanmukhtar1.hashnode.dev/building-a-nodejs-and-mongodb-web-application-a-step-by-step-guide)
 
   <br/>
 
@@ -150,7 +148,7 @@ Check out my latest tech articles:
   </a>
   <br/>
   <!-- code quantity -->
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-800k%20lines%20of%20code-blue" alt="Lines of Code">
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-900k%20lines%20of%20code-blue" alt="Lines of Code">
 </p>
 
   <!-- animated images footer -->
