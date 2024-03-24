@@ -97,6 +97,10 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
 
+ <!-- devCard -->
+
+[![Zeeshan Mukhtar's Dev Card](https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a)](https://app.daily.dev/zeeshanmukhtar1)
+
 <!-- github stats -->
 
 ## Github statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Disguised%20Face.webp" alt="Disguised Face" width="25" height="25" />
