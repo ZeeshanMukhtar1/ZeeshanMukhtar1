@@ -1,3 +1,5 @@
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+
 <!-- header image -->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zeeshanMukhtar1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
@@ -77,6 +79,8 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
 - 💎 **Google Cloud Seekho Challenge:** Proud winner with the Diamond Badge for significant contributions and achievements in the challenge. [Verify here](https://www.cloudskillsboost.google/public_profiles/6657fd9e-28d1-4374-bad2-f24ba18a66ea)
 
+- 🌐 **Microsoft Ambassador:** Representing Microsoft as an ambassador, I represent Microsoft by organizing and leading challenges, workshops, and informative sessions within the community. [MLSA Profile](https://mvp.microsoft.com/en-US/studentambassadors/profile/55818c21-3733-4588-a953-2090b63aaec6)
+
 - 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Zeeshan](https://tree-nation.com/trees/view/5281810)
 
 - ⭐ **Skill Development:** Improved my JavaScript skills with a 4-star rating on HackerRank. [HackerRank Profile](https://www.hackerrank.com/ZeeshanMukhtar1)
@@ -99,13 +103,17 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
  <!-- devCard -->
 
-[![Zeeshan Mukhtar's Dev Card](https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a)](https://app.daily.dev/zeeshanmukhtar1)
+<div style="width: 100%; max-width: 400px; margin: auto;">
+  <a href="https://app.daily.dev/zeeshanmukhtar1">
+    <img src="https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a" alt="Zeeshan Mukhtar's Dev Card" style="max-width: 100%; height: auto;">
+  </a>
+</div>
 
 <!-- github stats -->
 
 ## Github statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Disguised%20Face.webp" alt="Disguised Face" width="25" height="25" />
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img src="https://github-stats-lemon.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&rank_icon=github&theme=react" width="48%" align="right" >
 
 <!-- github streak -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=react" width="48%" >
@@ -118,7 +126,7 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
 <!-- top languages -->
 <a href="https://github.com/ZeeshanMukhtar1" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=20&layout=compact&theme=tokyonight&card_width=480" alt="Coding language cocktail" />
 </a>
 
   <!-- articles -->
