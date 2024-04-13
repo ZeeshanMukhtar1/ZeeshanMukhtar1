@@ -14,7 +14,28 @@
 
 <!-- intro content -->
 
-I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Proficient in JavaScript. I have a passion for learning and sharing my knowledge with others as publicly as possible. I have experience working with React.js, Node.js, and MongoDB. I'm also familiar with TypeScript, Angular, and Linux. I'm currently diving deep into the MERN stack. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻🚀
+```
+📂 ~/git:(master) ⚡
+❯❯❯ cat ~/whoami.md
+──────┬──────────────────────────────────────────────────────────────
+      │ File: /home/zeeshan/whoami.md
+──────┼──────────────────────────────────────────────────────────────
+      |  class Developer {
+      |        constructor() {
+      |            this.name = "Zeeshan Mukhtar";
+      |            this.technologies = ["JavaScript", "React", "Node.js", "MongoDB"];
+      |            this.currently_working = "MERN Projects";
+      |            this.currently_learning = "Next.js";
+      |        }
+      |        say_hi() {
+      |            console.log("Thanks for dropping by, hope you find some of my interesting work.");
+      |        }
+      |  }
+──────┴──────────────────────────────────────────────────────────────
+📂 ~/code
+❯❯❯
+
+```
 
 <!-- more about me  -->
 <details>
@@ -126,7 +147,7 @@ I'm a self-taught Full Stack Developer with a Bachelor's degree in IT and Profic
 
 <!-- top languages -->
 <a href="https://github.com/ZeeshanMukhtar1" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=20&layout=compact&theme=tokyonight&card_width=480" alt="Coding language cocktail" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=15&layout=compact&theme=tokyonight&card_width=480" alt="Coding language cocktail" />
 </a>
 
   <!-- articles -->
