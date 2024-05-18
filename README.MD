@@ -11,6 +11,8 @@
 I'm <b>Zeeshan Mukhtar</b>,
 A self taught friendly MERN developer here to make your web dreams come true! I like building cool stuff online that's easy to use. From making things look awesome to making them work super well, I use fancy tech like React.js, Node.js, and MongoDB. I'm like a digital handyman for websites! Let's team up and bring your ideas to life—simple, fun, and totally awesome! 🚀
 
+Take a look at my [Portfolio](https://www.codewithzeeshan.me/) 🥂
+
 <!-- intro title -->
 
 # Behind the Scenes 🎬
