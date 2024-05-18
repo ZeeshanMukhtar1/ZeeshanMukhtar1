@@ -6,9 +6,14 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zeeshanMukhtar1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
+## About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Hat Face" width="25" height="25" />
+
+I'm <b>Zeeshan</b>,
+Hi! Myself Zeeshan Mukhtar, a self taught friendly MERN developer here to make your web dreams come true! I like building cool stuff online that's easy to use. From making things look awesome to making them work super well, I use fancy tech like React.js, Node.js, and MongoDB. I'm like a digital handyman for websites! Let's team up and bring your ideas to life—simple, fun, and totally awesome! 🚀
+
 <!-- intro title -->
 
-# About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Hat Face" width="25" height="25" />
+# Behind the Scenes 🎬
 
 <!-- intro content -->
 
@@ -74,7 +79,8 @@ const zeeshan = new Developer(
 
 <details>
 <summary>Recent Achievements 🚀</summary>
-- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://www.holopin.io/@zeeshanmukhtar1#)
+
+- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor. [Verify here](https://www.holopin.io/@zeeshanmukhtar1#)
 
 - 💎 **Google Cloud Seekho Challenge:** Proud winner with the Diamond Badge for significant contributions and achievements in the challenge. [Verify here](https://www.cloudskillsboost.google/public_profiles/6657fd9e-28d1-4374-bad2-f24ba18a66ea)
 
@@ -97,6 +103,17 @@ const zeeshan = new Developer(
 <!-- hacktoberfest winning Kit -->
 
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
+
+</details>
+
+<!-- past experince -->
+
+<details>
+<summary>Past Experience 🏢</summary>
+
+- 🚀 **Full Stack Developer:** At Artifusion, I worked closely with the CTO to design and build the company's Minimum Viable Product (MVP) with Next.Js
+
+- 🌐 **Frontend Developer:** Served as a frontend developer at CodeLab IT Sollutins, where I designed and developed user-friendly interfaces for web applications.
 
 </details>
 
@@ -146,7 +163,7 @@ const zeeshan = new Developer(
 
 <!-- article -->
 <details>
-<summary>My Latest Blog Posts </summary>
+<summary>My Latest Blog Posts  👨‍🎓 </summary>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
 
@@ -160,12 +177,16 @@ const zeeshan = new Developer(
 
 </details>
 <details>
-<summary>Lines of Code Conquered & Dedication </summary>
+<summary>Lines of Code Conquered & Dedication ⌛ </summary>
 
 <p align="center">
   
   <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
     <img src="https://wakatime.com/badge/user/018c11a7-c257-4c7e-a0c7-25addbf10c4c.svg?style=for-the-badge" alt="Counting Keystrokes">
+  </a>
+  <br/>
+  <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
+    <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25334%26project%3D%26in=0" alt="CodeTime Badge">
   </a>
   <br/>
   
