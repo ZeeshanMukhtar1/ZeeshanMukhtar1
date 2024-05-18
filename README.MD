@@ -1,4 +1,4 @@
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+<!-- github rank -->
 
 [![top github user badge](https://user-badge.committers.top/pakistan/ZeeshanMukhtar1.svg)](https://user-badge.committers.top/pakistan/ZeeshanMukhtar1)
 
@@ -6,65 +6,40 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zeeshanMukhtar1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-<!-- animated welcome message -->
-
-[![Welcome message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Step+into+my+digital+universe%F0%9F%8C%8D;Where+I+fork+ideas+%F0%9F%8D%B4)](https://www.linkedin.com/in/zeeshanmukhtar1/)
-
 <!-- intro title -->
 
 # About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Hat Face" width="25" height="25" />
 
 <!-- intro content -->
 
+```javascript
+class Developer {
+  constructor(name, technologies, currentlyWorking, currentlyLearning) {
+    this.name = name;
+    this.technologies = technologies;
+    this.currentlyWorking = currentlyWorking;
+    this.currentlyLearning = currentlyLearning;
+  }
+
+  sayHi() {
+    console.log(
+      'Thanks for dropping by, hope you find some of my interesting work.'
+    );
+  }
+}
+
+const zeeshan = new Developer(
+  'Zeeshan Mukhtar',
+  ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Express.js', 'Next.js'],
+  'MERN Projects',
+  'Next.js'
+);
 ```
-📂 ~/git:(master) ⚡
-❯❯❯ cat ~/whoami.md
-──────┬──────────────────────────────────────────────────────────────
-      │ File: /home/zeeshan/whoami.md
-──────┼──────────────────────────────────────────────────────────────
-      |  class Developer {
-      |        constructor() {
-      |            this.name = "Zeeshan Mukhtar";
-      |            this.technologies = ["JavaScript", "React", "Node.js", "MongoDB"];
-      |            this.currently_working = "MERN Projects";
-      |            this.currently_learning = "Next.js";
-      |        }
-      |        say_hi() {
-      |            console.log("Thanks for dropping by, hope you find some of my interesting work.");
-      |        }
-      |  }
-──────┴──────────────────────────────────────────────────────────────
-📂 ~/code
-❯❯❯
-
-```
-
-<!-- more about me  -->
-<details>
-  <summary>Click to expand for more details 🤭</summary>
-
-- Previous Experience: I have been a React.js and Angular developer at the Code Lab and IT Solution Software House.
-- Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.I also worked on some basic Mobile application for android and IOS.
-- Education: I hold a Bachelor's degree in Information Technology from Bahauddin Zakariya University.
-
-</details>
-
-<table style="border: none;" >
-<tr>
-<td style="text-align: justify;" >
-
-- ✨ Creating bugs since the early days of my coding journey.
-- 🎯 Goals: Advancing web development proficiency.
-- 🌱 Currently, I am expanding my skills in web development with a focus on learning MERN Stack.
-- 👯 I am open to collaborating with others on front-end development projects.
-- 👨‍💻 Check out my [Portfolio](https://zeeshan-resume.netlify.app/) website for more information about me and my work.
-- 📝 Currently, I am pursuing a bachelor's degree in IT.
-- 📧 Feel free to contact me via <a href="mailto:zeshanmukhtar878@gmail.com">Email</a> for any inquiries or collaboration opportunities.
-- 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshanmukhtar1/) or [Instagram](https://www.instagram.com/zeshanmukhtar01/).
 
 <!-- skills -->
 
-## My Skill Set 🛠️:
+<details>
+<summary>Technologies Proficiency 🛠️</summary>
 
 <table><tr><td valign="top" width="33%">
 
@@ -93,11 +68,12 @@
 </div>
 </a>
 </td></tr></table>
+</details>
 
 <!-- achievements -->
 
-## Recent Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" />
-
+<details>
+<summary>Recent Achievements 🚀</summary>
 - 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://www.holopin.io/@zeeshanmukhtar1#)
 
 - 💎 **Google Cloud Seekho Challenge:** Proud winner with the Diamond Badge for significant contributions and achievements in the challenge. [Verify here](https://www.cloudskillsboost.google/public_profiles/6657fd9e-28d1-4374-bad2-f24ba18a66ea)
@@ -118,43 +94,59 @@
 
 - 🎓 **Bachelor's in Information Technology:** Graduated from Bahauddin Zakariya University with a degree in IT, providing a strong foundation for my career in technology.
 
-</h3>
-
-<!-- swags -->
+<!-- hacktoberfest winning Kit -->
 
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
 
+</details>
+
  <!-- devCard -->
 
-<div style="width: 100%; max-width: 400px; margin: auto;">
-  <a href="https://app.daily.dev/zeeshanmukhtar1">
-    <img src="https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a" alt="Zeeshan Mukhtar's Dev Card" style="max-width: 100%; height: auto;">
-  </a>
+<details>
+<summary>What I'm Reading on Daily.dev 📰</summary>
+
+<div align='center'>
+ <a href="https://app.daily.dev/zeeshanmukhtar1"><img src="https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a" width="652" alt="Zeeshan Mukhtar's Dev Card"/></a>
 </div>
+
+</details>
+
+<details>
+<summary>Conquering Coding Challenges 🏆</summary>
+
+<div align="center">
+ <img src="https://leetcard.jacoblin.cool/ZeeshanMukhtar1?theme=nord&font=Ubuntu&ext=activity" />
+</div>
+
+</details>
 
 <!-- github stats -->
 
-## Github statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Disguised%20Face.webp" alt="Disguised Face" width="25" height="25" />
+<details>
+<summary>My GitHub Activity in the Spotlight 📊</summary>
 
-<img src="https://github-stats-lemon.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&rank_icon=github&theme=react" width="48%" align="right" >
-
-<!-- github streak -->
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=react" width="48%" >
-<br>
-
-<!-- graph -->
-
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanMukhtar1&theme=react-dark)
-<br>
-
-<!-- top languages -->
-<a href="https://github.com/ZeeshanMukhtar1" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=15&layout=compact&theme=tokyonight&card_width=480" alt="Coding language cocktail" />
-</a>
-
+<table>
+    <tr>
+        <td colspan="2">
+             <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanMukhtar1&theme=react-dark" alt="GitHub Stats" />
+        </td>
+    </tr>
+    <tr width="50%">
+        <td><img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&rank_icon=github&theme=react" alt="GitHub Stats" /></td>
+        <td><img style="max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com?user=ZeeshanMukhtar1&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=20&layout=compact&theme=tokyonight&card_width=600" alt="Coding language cocktail" />
+        </td>
+    </tr>
+</table>
+</details>
   <!-- articles -->
 
-## Check out my latest tech articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+<!-- article -->
+<details>
+<summary>My Latest Blog Posts </summary>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
 
@@ -166,21 +158,20 @@
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [Building a Node.js and MongoDB Web Application](https://zeeshanmukhtar1.hashnode.dev/building-a-nodejs-and-mongodb-web-application-a-step-by-step-guide)
 
-  <br/>
+</details>
+<details>
+<summary>Lines of Code Conquered & Dedication </summary>
 
-<!-- profile hits -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Hits&pretty=false" alt="Profile Views">
-  <br/>
   
-  <!-- wakatime -->
   <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
     <img src="https://wakatime.com/badge/user/018c11a7-c257-4c7e-a0c7-25addbf10c4c.svg?style=for-the-badge" alt="Counting Keystrokes">
   </a>
   <br/>
-  <!-- code quantity -->
+  
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-900k%20lines%20of%20code-blue" alt="Lines of Code">
 </p>
+</details>
 
   <!-- animated images footer -->
 <p align="center" style="margin-top: 30px;">
@@ -192,4 +183,8 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
+</p>
+<!-- profile hits -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Visits&pretty=true" alt="Profile Views">
 </p>
