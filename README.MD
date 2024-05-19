@@ -152,11 +152,16 @@ const zeeshan = new Developer(
     </tr>
     <tr width="50%">
         <td><img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ZeeshanMukhtar1&show_icons=true&hide_border=true&rank_icon=github&theme=react" alt="GitHub Stats" /></td>
-        <td><img style="max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com?user=ZeeshanMukhtar1&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
+        <td><img style="max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=react&hide_border=true" alt="GitHub Streak" /></td>
     </tr>
     <tr>
         <td colspan="2" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&langs_count=20&layout=compact&theme=tokyonight&card_width=600" alt="Coding language cocktail" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+  <img src="https://api.githubtrends.io/user/svg/ZeeshanMukhtar1/langs?time_range=one_year&include_private=True&theme=dark" alt="Coding language cocktail" />
         </td>
     </tr>
 </table>
