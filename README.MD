@@ -30,16 +30,16 @@ class Developer {
 
   sayHi() {
     console.log(
-      'Thanks for dropping by, hope you find some of my interesting work.'
+      "Thanks for dropping by, hope you find some of my interesting work."
     );
   }
 }
 
 const zeeshan = new Developer(
-  'Zeeshan Mukhtar',
-  ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Express.js', 'Next.js'],
-  'MERN Projects',
-  'Next.js'
+  "Zeeshan Mukhtar",
+  ["JavaScript", "React", "Node.js", "MongoDB", "Express.js", "Next.js"],
+  "MERN Projects",
+  "Next.js"
 );
 ```
 
@@ -134,7 +134,7 @@ const zeeshan = new Developer(
 <summary>Conquering Coding Challenges 🏆</summary>
 
 <div align="center">
- <img src="https://leetcard.jacoblin.cool/ZeeshanMukhtar1?theme=nord&font=Ubuntu&ext=activity" />
+ <img src="https://leetcard.jacoblin.cool/ZeeshanMukhtar1?ext=heatmap" />
 </div>
 
 </details>
