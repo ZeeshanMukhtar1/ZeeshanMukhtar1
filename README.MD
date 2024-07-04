@@ -183,24 +183,6 @@ const zeeshan = new Developer(
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> [Building a Node.js and MongoDB Web Application](https://zeeshanmukhtar1.hashnode.dev/building-a-nodejs-and-mongodb-web-application-a-step-by-step-guide)
 
 </details>
-<details>
-<summary>Lines of Code Conquered & Dedication ⌛ </summary>
-
-<p align="center">
-  
-  <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
-    <img src="https://wakatime.com/badge/user/018c11a7-c257-4c7e-a0c7-25addbf10c4c.svg?style=for-the-badge" alt="Counting Keystrokes">
-  </a>
-  <br/>
-  <a href="https://wakatime.com/@018c11a7-c257-4c7e-a0c7-25addbf10c4c">
-    <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25334%26project%3D%26in=0" alt="CodeTime Badge">
-  </a>
-  <br/>
-  
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-900k%20lines%20of%20code-blue" alt="Lines of Code">
-</p>
-</details>
-
   <!-- animated images footer -->
 <p align="center" style="margin-top: 30px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
