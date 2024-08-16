@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to Zee's World!
+  Glad you're here—let's build something amazing together!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -53,7 +53,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/1.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
