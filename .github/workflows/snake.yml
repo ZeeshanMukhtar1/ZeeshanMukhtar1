@@ -1,12 +1,10 @@
 name: Generate Snake Animation
 
-# Controls when the action will run. In this case, it runs once a day at midnight.
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch: # Allows manual run from GitHub Actions tab
 
-# Allows GitHub Actions to write generated files to your repository
 permissions:
   contents: write
 
@@ -15,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks out the repository
       - uses: actions/checkout@v3
 
       # Generates the snake animation and outputs it to the specified files
@@ -24,7 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#6f42c1&color_dots=#00ff00,#00e600,#00cc00,#00b300,#009900,#000000
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#6f42c1&color_dots=#00ff00,#00e600,#00cc00,#00b300,#009900
 
       # Commits and pushes the generated files back to the repository
       - name: Commit and Push changes
