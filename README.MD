@@ -184,8 +184,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeeshanmukhtar1&theme=github-compact&area=true)](https://github.com/zeeshanmukhtar1/)
 
-## 🐍 My Contributions
-
 ## 🐍 GitHub Contribution Snake
 
 ![GitHub Snake dark](./dist/github-snake-dark.svg)
