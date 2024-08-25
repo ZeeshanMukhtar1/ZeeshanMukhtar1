@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+# Controls when the action will run. In this case, it runs once a day at midnight.
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows manual run from GitHub Actions tab
+
+# Allows GitHub Actions to write generated files to your repository
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks out the repository
+      - uses: actions/checkout@v3
+
+      # Generates the snake animation and outputs it to the specified files
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark-mode&color_snake=orange&color_dots=#ffffff,#ffffff,#ffffff,#ffffff,#ffffff
+
+      # Commits and pushes the generated files back to the repository
+      - name: Commit and Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Action
+          author_email: action@github.com
+          message: " :snake: chore: Updated Snake Animation"
+          add: "dist/*.svg"
