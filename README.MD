@@ -187,4 +187,4 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/output/github-contribution-grid-snake.gif" width="100%">
