@@ -167,8 +167,24 @@
 
 - 🎓 **Bachelor's in Information Technology:** Graduated from Bahauddin Zakariya University with a degree in IT, providing a strong foundation for my career in technology.
 
-    <br>
-    <br>
+<br>
+
+## Coding Activity: 👨‍💻
+
+  <p align="center">
+      <a href="https://github.com/zeeshanmukhtar1">
+          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zeeshanmukhtar1&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshanmukhtar1&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+      </a>
+  </p>
+
+ <p align="center">
+   <a href="https://github.com/zeeshanmukhtar1"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanmukhtar1&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
 
 <div align="center">
  <img src="https://leetcard.jacoblin.cool/ZeeshanMukhtar1?ext=heatmap" />
@@ -181,5 +197,3 @@
 </div>
 
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
-
-[![ZeeshanMukhtar1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeeshanmukhtar1&theme=github-compact&area=true)](https://github.com/zeeshanmukhtar1/)
