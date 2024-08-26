@@ -183,10 +183,8 @@
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeeshanmukhtar1&theme=github-compact&area=true)](https://github.com/zeeshanmukhtar1/)
+</br>
 
 ## 🐍 GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="./dist/github-snake.svg">
-</picture>
+![Snake animation](https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/output/github-contribution-grid-snake.svg)
