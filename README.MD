@@ -188,5 +188,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="./dist/github-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="./dist/github-snake.svg">
 </picture>

@@ -21,7 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#6f42c1&color_dots=##39D353,##39D353,##006D32,##0E4429,#161b22
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#6f42c1&color_dots=#39D353,#39D353,#006D32,#0E4429,#161b22
 
       # Commits and pushes the generated files back to the repository
       - name: Commit and Push changes
