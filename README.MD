@@ -1,9 +1,13 @@
-<h2 align="center">
+<h1 align="center">
+  <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="" width="7%" style="vertical-align: middle;" />
   Glad you're here—let's build something amazing together!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;" />
+</h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zeeshanMukhtar1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ZeeshanMukhtar1/github-widgetbox)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zeeshanMukhtar1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ZeeshanMukhtar1/github-widgetbox) -->
+
+![GitHub Banner](./assets//banner.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <p align="center">
   <a href="https://github.com/zeeshanMukhtar1"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Self-taught+Developer;Microsoft+Student+Ambassador;Always+learning+%26+growing;Open-source+enthusiast"></a>
