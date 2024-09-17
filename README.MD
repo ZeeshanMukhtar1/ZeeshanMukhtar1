@@ -1,8 +1,10 @@
-<h1 align="center">
+<h2 align="center">
   <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="" width="7%" style="vertical-align: middle;" />
   Glad you're here—let's build something amazing together!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;" />
-</h1>
+</h2>
+
+![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zeeshanMukhtar1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ZeeshanMukhtar1/github-widgetbox) -->
 
@@ -57,7 +59,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/darkeyessticker.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
@@ -124,38 +126,35 @@
 
 ## 💼 Professional Experience
 
-### Artifusion - Full Stack Developer
-
-- ✔️ Built the company’s MVP using Next.js and MongoDB.
-- ✔️ Collaborated with a team of designers to implement user-friendly interfaces.
-- ✔️ Enhanced product performance, leading to a 25% increase in user engagement.
-
-### CodeLab IT Solutions - Frontend Developer
-
-- ✔️ Designed and developed City's Election Managment System interfaces for web applications.
-- ✔️ Improved page load times by 30% through code optimization.
-- ✔️ Worked closely with the backend team to integrate APIs efficiently.
-
-## My Latest Blog Posts
-
-- 🔗 [Mastering MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
-- 🔗 [Redux Toolkit Guide](https://zeeshanmukhtar1.hashnode.dev/redux-toolkit-guide)
-- 🔗 [Your First Open-Source Contribution](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution)
-- 🔗 [The Secrets to Open Source Success](https://zeeshanmukhtar1.hashnode.dev/the-secrets-to-open-source-success)
+<details>
+    <summary>
+    📂 Click to view my professional experience
+    </summary>
+  <p><strong>Artifusion - Full Stack Developer</strong></p>
+  <ul>
+    <li>✔️ Built the company’s MVP using Next.js and MongoDB.</li>
+    <li>✔️ Collaborated with a team of designers to implement user-friendly interfaces.</li>
+    <li>✔️ Enhanced product performance, leading to a 25% increase in user engagement.</li>
+  </ul>
+  <p><strong>CodeLab IT Solutions - Frontend Developer</strong></p>
+  <ul>
+    <li>✔️ Designed and developed City's Election Management System interfaces for web applications.</li>
+    <li>✔️ Improved page load times by 30% through code optimization.</li>
+    <li>✔️ Worked closely with the backend team to integrate APIs efficiently.</li>
+  </ul>
+</details>
 
 ## 🎯 Recent Achievements
 
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeeshanmukhtar1&theme=onedark&row=1&no-frame=true&no-bg=true" alt="Zeeshan Mukhtar" />
- </a>
-</p>
-
+<details>
+    <summary>
+     📜 Click to view my recent achievements
+    </summary
 - 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor. [Verify here](https://www.holopin.io/@zeeshanmukhtar1#)
 
 - 💎 **Google Cloud Seekho Challenge:** Proud winner with the Diamond Badge for significant contributions and achievements in the challenge. [Verify here](https://www.cloudskillsboost.google/public_profiles/6657fd9e-28d1-4374-bad2-f24ba18a66ea)
 
-- 🌐 **Microsoft Ambassador:** Representing Microsoft as an ambassador, I represent Microsoft by organizing and leading challenges, workshops, and informative sessions within the community. [MLSA Profile](https://mvp.microsoft.com/en-US/studentambassadors/profile/55818c21-3733-4588-a953-2090b63aaec6)
+- 🌐 **Microsoft Ambassador:** Representing Microsoft as an ambassador by organizing and leading challenges, workshops, and informative sessions within the community. [MLSA Profile](https://mvp.microsoft.com/en-US/studentambassadors/profile/55818c21-3733-4588-a953-2090b63aaec6)
 
 - 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Zeeshan](https://tree-nation.com/trees/view/5281810)
 
@@ -170,6 +169,19 @@
 - 🎓 **Certified in Advanced React:** Completed the Advanced React course, enhancing my web development skills. [See Certificate](https://coursera.org/share/918026f1975c0c52165534d622e891e9)
 
 - 🎓 **Bachelor's in Information Technology:** Graduated from Bahauddin Zakariya University with a degree in IT, providing a strong foundation for my career in technology.
+</details>
+
+## My Latest Blog Posts
+
+<details>
+  <summary>🔗 Click to view my latest blog posts</summary>
+
+- 🔗 [Mastering MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
+- 🔗 [Redux Toolkit Guide](https://zeeshanmukhtar1.hashnode.dev/redux-toolkit-guide)
+- 🔗 [Your First Open-Source Contribution](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution)
+- 🔗 [The Secrets to Open Source Success](https://zeeshanmukhtar1.hashnode.dev/the-secrets-to-open-source-success)
+
+</details>
 
 <br>
 
@@ -198,14 +210,28 @@
 <img  src="https://raw.githubusercontent.com/ZeeshanMukhtar1/ZeeshanMukhtar1/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 
-<div align="center">
- <img src="https://leetcard.jacoblin.cool/ZeeshanMukhtar1?ext=heatmap" />
-</div>
- <br>
-    <br>
-
-<div align='center'>
- <a href="https://app.daily.dev/zeeshanmukhtar1"><img src="https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a" width="652" alt="Zeeshan Mukhtar's Dev Card"/></a>
-</div>
-
 [![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
+
+<div align="center">
+    <!-- Container for the images -->
+    <table>
+        <tr>
+            <td>
+                <!-- leetcode card -->
+                <img src="https://leetcard.jacoblin.cool/ZeeshanMukhtar1?ext=heatmap" width="250" height="150" />
+            </td>
+            <td>
+                <!-- Daily dev card  -->
+                <a href="https://app.daily.dev/zeeshanmukhtar1">
+                    <img src="https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a" width="250" height="150" alt="Zeeshan Mukhtar's Dev Card"/>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeeshanmukhtar1&theme=onedark&row=1&no-frame=true&no-bg=true" alt="Zeeshan Mukhtar" />
+ </a>
+</p>
