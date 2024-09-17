@@ -188,7 +188,7 @@
 
 <br>
 
-## 🐍 GitHub Contribution Snake
+## GitHub Contribution Snake 🐍
 
 <div align="center">
 <img  src="https://raw.githubusercontent.com/ZeeshanMukhtar1/ZeeshanMukhtar1/output/github-contribution-grid-snake.svg" alt="contribution graph" />
