@@ -81,27 +81,45 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+## Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Full Stack Frameworks
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+## CSS Frameworks
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-0B3D7A?style=for-the-badge&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+## State Management
+
+![Recoil](https://img.shields.io/badge/Recoil-007ACC?style=for-the-badge&logo=react&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-3D5EBA?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ## Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+## Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## DevOps and Deployment
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-135679?style=for-the-badge&logo=putty&logoColor=white)
 
 ## Tools and Utilities
 
@@ -112,17 +130,22 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4B3A?style=for-the-badge&logo=zapier&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-100C2A?style=for-the-badge&logo=obsidian&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+
+## Communication and Automation Tools
+
+![Twilio](https://img.shields.io/badge/Twilio-FF4B3A?style=for-the-badge&logo=twilio&logoColor=white)
+![Bland AI](https://img.shields.io/badge/Bland_AI-00BFFF?style=for-the-badge&logoColor=white)
 
 ## Design
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-<br/>
 
-<hr/>
-<br/>
-
-<br/>
+Sure! Here’s an updated version of your professional experience section that includes your work at Devs and Logics and your current role at Remap.ai:
 
 ## 💼 Professional Experience
 
@@ -130,12 +153,28 @@
     <summary>
     📂 Click to view my professional experience
     </summary>
+    
+  <p><strong>Remap.ai - Full Stack Developer</strong></p>
+  <ul>
+    <li>✔️ Currently developing the white label product "Busi Chat" using Vue 3.</li>
+    <li>✔️ Collaborating with cross-functional teams to enhance product features and performance.</li>
+    <li>✔️ Implementing scalable solutions to support business growth.</li>
+  </ul>
+  
+  <p><strong>Devs and Logics - Full Stack Developer</strong></p>
+  <ul>
+    <li>✔️ Developed "Viravid.pro," an AI tool for creating and posting high-quality viral videos.</li>
+    <li>✔️ Led the development of "Shorline Document Translation," utilizing Azure API for AI translation.</li>
+    <li>✔️ Enhanced user experience through intuitive design and seamless functionality.</li>
+  </ul>
+
   <p><strong>Artifusion - Full Stack Developer</strong></p>
   <ul>
     <li>✔️ Built the company’s MVP using Next.js and MongoDB.</li>
     <li>✔️ Collaborated with a team of designers to implement user-friendly interfaces.</li>
     <li>✔️ Enhanced product performance, leading to a 25% increase in user engagement.</li>
   </ul>
+  
   <p><strong>CodeLab IT Solutions - Frontend Developer</strong></p>
   <ul>
     <li>✔️ Designed and developed City's Election Management System interfaces for web applications.</li>
