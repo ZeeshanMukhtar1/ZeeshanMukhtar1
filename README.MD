@@ -145,8 +145,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-Sure! Here’s an updated version of your professional experience section that includes your work at Devs and Logics and your current role at Remap.ai:
-
 ## 💼 Professional Experience
 
 <details>
